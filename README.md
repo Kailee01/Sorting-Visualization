@@ -1,5 +1,4 @@
 # Sorting-Visualization
-# Sorting Visualization
 ## Kailee01 Project
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
