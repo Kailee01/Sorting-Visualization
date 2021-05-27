@@ -9,7 +9,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
-
+[Check out the website here](https://kailee01.github.io/Sorting-Visualization/)
 <img src="img1.jpg"> <br/>
  
